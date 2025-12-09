@@ -19,8 +19,8 @@
 ### Blog Post Page
 ![Blog Post Page](./screenshots/Blog%20Post%20Page.png)
 
-### About Us Page
-![About Us Page](./screenshots/About%20Us%20Page.png)
-
 ### Contact Page
 ![Contact Page](./screenshots/Contact%20Page.png)
+
+### About Us Page
+![About Us Page](./screenshots/About%20Us%20Page.png)
