@@ -8,7 +8,7 @@
  ## Screenshots
 
 ### Home Page
-![Home Page](./screenshots/Home Page.png)
+![Home Page](.screenshots/Home Page.png)
 
 ### Recipe Details
 ![Recipe Details](./screenshots/Recipe Details.png)
