@@ -17,7 +17,7 @@ Figma designs for a modern chat web interface.
 ![Profile page](./screenshots/Profile%20page.png)
 
 ### Select contact page
-![Select contact page](./screenshots/Select%contact%20page.png)
+![Select contact page](./screenshots/Select%20contact%20page.png)
 
 ### Home page
 ![Home page](./screenshots/Home%20page.png)
