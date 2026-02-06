@@ -8,7 +8,7 @@ Figma designs for a modern chat application interface.
 ## 📸 Screenshots
 
 ### Login page
-![Login page](./screenshots/Loginpage.png)
+![Login page](./screenshots/Login%20page.png)
 
 ### Sign up page
 ![Sign up page](./screenshots/Signuppage.png)
