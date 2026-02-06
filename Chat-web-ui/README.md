@@ -7,21 +7,31 @@ Figma designs for a modern chat web interface.
    
 ## Screenshots
 
-### Home Page
-![Home Page](./screenshots/Home%20Page.png)
+### Login page
+![Login page](./screenshots/Login%20page.png)
 
-### Recipe Details
-![Recipe Details](./screenshots/Recipe%20Details.png)
+### Sign up page
+![Sign up page](./screenshots/Sign%20up%20page.png)
 
-### Blog List Page
-![Blog List Page](./screenshots/Blog%20List%20Page.png)
+### Profile page
+![Profile page](./screenshots/Profile%20page.png)
 
-### Blog Post Page
-![Blog Post Page](./screenshots/Blog%20Post%20Page.png)
+### Select contact page
+![Select contact page](./screenshots/Select%contact%20page.png)
 
-### Contact Page
-![Contact Page](./screenshots/Contact%20Page.png)
+### Home page
+![Home page](./screenshots/Home%20page.png)
 
-### About us Page
-![About us Page](./screenshots/About%20us%20Page.png)
+### User message page
+![User message page](./screenshots/User%20message%20page.png)
+
+### Select user for channel page
+![Select user for channel page](./screenshots/Select%20user%20for%20channel%20page.png)
+
+### Channel message page
+![Channel message page](./screenshots/Channel%20message%20page.png)
+
+
+
+
 
