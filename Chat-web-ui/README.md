@@ -1,4 +1,4 @@
-# 🔗 Chat App UI
+# 🔗 Chat Web UI
 
 Figma designs for a modern chat application interface.
    
