@@ -1,6 +1,6 @@
-# 🔗 Food Recipe Website
+# 🔗 Chat App UI
 
-Figma designs for the Food Recipe Website project.
+Figma designs for a modern chat application interface.
 
 ---
 
